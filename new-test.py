@@ -21,4 +21,7 @@
 #    # 模拟你的任务
 #    sleep(0.1)
 
+for a in range(0, 0, -1):
+    if a == None:
+        print(0)
 
